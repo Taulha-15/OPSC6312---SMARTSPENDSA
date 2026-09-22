@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartSpend SA</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="transactions">Transactions</string>
+    <string name="analytics">Analytics</string>
+    <string name="settings">Settings</string>
+</resources>
